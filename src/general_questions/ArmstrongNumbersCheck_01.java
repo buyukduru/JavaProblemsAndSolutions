@@ -1,4 +1,4 @@
-package day1;
+package general_questions;
 
 import java.util.Scanner;
 

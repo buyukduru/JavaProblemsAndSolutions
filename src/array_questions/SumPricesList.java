@@ -1,4 +1,4 @@
-package day1;
+package array_questions;
 
 import java.util.ArrayList;
 import java.util.List;
